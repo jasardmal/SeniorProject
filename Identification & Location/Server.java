@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class SeniorProject here.
+ * Write a description of class Server here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class SeniorProject
+public class Server extends Staff
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class SeniorProject
+     * Constructor for objects of class Server
      */
-    public SeniorProject()
+    public Server()
     {
         // initialise instance variables
         x = 0;

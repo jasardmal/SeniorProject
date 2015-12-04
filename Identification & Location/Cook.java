@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class Kitchen here.
+ * Write a description of class Cook here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Kitchen extends Staff
+public class Cook extends Staff
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class Kitchen
+     * Constructor for objects of class Cook
      */
-    public Kitchen()
+    public Cook()
     {
         // initialise instance variables
         x = 0;

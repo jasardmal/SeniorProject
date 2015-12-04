@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class Guest here.
+ * Write a description of class Security here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Guest extends Person
+public class Security extends Staff
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class Guest
+     * Constructor for objects of class Security
      */
-    public Guest()
+    public Security()
     {
         // initialise instance variables
         x = 0;
